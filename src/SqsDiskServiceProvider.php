@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleSoftwareIO\SqsDisk;
+namespace Sbagroupzrt\SimpleSqsExtendedClient;
 
 use Illuminate\Support\ServiceProvider;
 
