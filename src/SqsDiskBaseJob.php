@@ -1,6 +1,6 @@
 <?php
 
-namespace sbagroupzrt\SimpleSqsExtendedClient;
+namespace Sbagroupzrt\SimpleSqsExtendedClient;
 
 use Aws\Sqs\SqsClient;
 use Illuminate\Support\Arr;
