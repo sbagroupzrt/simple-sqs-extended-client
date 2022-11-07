@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleSoftwareIO\SqsDisk;
+namespace sbagroupzrt\SimpleSqsExtendedClient;
 
 use Illuminate\Support\Arr;
 use Illuminate\Filesystem\FilesystemAdapter;
