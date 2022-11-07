@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleSoftwareIO\SqsDisk;
+namespace sbagroupzrt\SimpleSqsExtendedClient;
 
 use Illuminate\Queue\Jobs\SqsJob;
 use Illuminate\Contracts\Queue\Job as JobContract;
