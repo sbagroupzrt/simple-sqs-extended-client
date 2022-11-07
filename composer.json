@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SimpleSoftwareIO\\SqsDisk\\": "src"
+            "sbagroupzrt\\SqsDisk\\": "src"
         }
     },
     "scripts": {
@@ -38,7 +38,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SimpleSoftwareIO\\SqsDisk\\SqsDiskServiceProvider"
+                "sbagroupzrt\\SqsDisk\\SqsDiskServiceProvider"
             ]
         }
     }
