@@ -1,6 +1,7 @@
 {
     "name": "sbagroupzrt/simple-sqs-extended-client",
     "description": "Simple SQS Extended Client is a SQS driver for Laravel that supports extended payloads beyond 256kb.",
+    "type": "package",
     "keywords": [
         "laravel",
         "simple",
